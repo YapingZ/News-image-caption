@@ -1,7 +1,9 @@
 # News-image-caption
 
-most of code in this repository originate from [ruotianluo/self-critical](https://github.com/ruotianluo/self-critical.pytorch)
+most of code in this repository originate from [self-critical](https://github.com/ruotianluo/self-critical.pytorch)
 
+Chinese image caption generation for breaking news
+ 
 ## Requirements
 - python3
 - torch 1.4.0
