@@ -24,7 +24,7 @@ python scripts/prepro_news_labels.py --input_json data/news_annotations/annotati
 python scripts/make_news_data.py
 ```
 
-# Start training & evaluation
+## Start training & evaluation
 Training
 ```
 python tools/train.py --cfg configs/news.yml --id news_num
@@ -44,5 +44,5 @@ training
 python tools/train.py --cfg configs/news_rl.yml --id news_3_rl
 ```
 
-# Example
+## Example
 ![]()
