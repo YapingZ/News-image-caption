@@ -45,4 +45,5 @@ python tools/train.py --cfg configs/news_rl.yml --id news_3_rl
 ```
 
 ## Example
-![]()
+the result of Chinese image caption generation
+![1](figure/1.png)
